@@ -1,0 +1,14 @@
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.exe
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.deps.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.dev.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.pdb
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.AssemblyReference.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfoInputs.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfo.cs
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.pdb
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.genruntimeconfig.cache

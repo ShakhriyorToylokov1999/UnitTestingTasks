@@ -1,0 +1,14 @@
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.exe
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.deps.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.runtimeconfig.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.runtimeconfig.dev.json
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.dll
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\bin\Debug\netcoreapp3.1\HarryPotter.pdb
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.csproj.AssemblyReference.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfoInputs.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfo.cs
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.csproj.CoreCompileInputs.cache
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.dll
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.pdb
+C:\Users\Shakhriyor_Toylokov\source\repos\NewRepo2\HarryPotter\HarryPotter\obj\Debug\netcoreapp3.1\HarryPotter.genruntimeconfig.cache
